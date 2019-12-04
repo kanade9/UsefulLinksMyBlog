@@ -3,7 +3,8 @@
 ### IP遮断の参考にしたサイト
 https://sys-guard.com/post-5275/
 http://cad.lolipop.jp/work/techinfo/other/iptables_ssh_jpn_only.htm
-
+iptablesの設定  
+https://www.virment.com/iptables-setting-example/
 ### IPのリストの入手
 http://nami.jp/ipv4bycc/
 
